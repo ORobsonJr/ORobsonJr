@@ -29,4 +29,7 @@ Website --> [Click here](https://orobsonjr.github.io/)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 <p> Ps.: I know more things, but unfortunately doesn't have all badges that i need </p>
 
+## Recruiters
+<strong>Tips for recruiters:</strong> Keep in mind that each project is a new learning experience, so if you want to know more about my current level of knowledge, check the projects with the most recent creation date.
+
 
