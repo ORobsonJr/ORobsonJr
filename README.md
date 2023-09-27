@@ -14,3 +14,11 @@ Robson is a dynamic full-stack developer from São Paulo, Brazil, with a passion
 <a href="https://github.com/ORobsonJr/eimegem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ORobsonJr&repo=eimegem&theme=radical" />
 </a>
+
+<a href="https://github.com/ORobsonJr/diet_creator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ORobsonJr&repo=diet_creator&theme=radical" />
+</a>
+
+<a href="https://github.com/ORobsonJr/faculdade-descomplica">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ORobsonJr&repo=faculdade-descomplica&theme=radical" />
+</a>
