@@ -4,6 +4,18 @@
 
 Robson is a dynamic full-stack developer from São Paulo, Brazil, with a passion for technology and a knack for crafting elegant solutions. With expertise in both front-end and back-end development, he excels at tackling complex challenges and is known for his collaborative spirit in team environments. Beyond coding, Robson enjoys exploring São Paulo's vibrant culture and culinary delights.
 
+## Technology Stack
+- Databases(MongoDB, Mysql, sqlite3)
+- Python3
+- Javascript (framework Node and JQuery)
+- Css (framework Bootstrap)
+- HTML5
+- Django
+- RestFramework Django
+- Git & Github
+- Bash Script 
+  
+
 ## Data and analytics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ORobsonJr&theme=radical)](https://github.com/ORobsonJr/github-readme-stats)
 
